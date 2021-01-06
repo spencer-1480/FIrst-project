@@ -1,0 +1,164 @@
+<html><head><title>Spencer Da Dev</title>
+    <meta chartset="Utf-8">
+
+</head><body>
+<link rel="stylesheet" href="./css/style.css">
+<section id="bothem">
+
+
+    <header id="header1" style="
+        font-size: 50px;
+    "><title>Spencer Da Dev</title>
+        <meta chartset="Utf-8">
+  <header style="text-align:center">Spencer's Web Development</header>
+
+    </header>
+<br>
+<br>
+
+
+
+
+<section id="Welcome" class="grid">
+  <div class="box">
+    <h2>Welcome</h2>
+
+  <p> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+</div></section>
+</section>
+<br>
+
+<!-- Section b -->
+
+<section id="Web-Dev" class="grid">
+ <div class="box-input">
+   <h2>Web App and Web Development</h2>
+  <p> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop <a href="#"> Read More...</a>
+</p></div></section>
+
+
+
+<!-- section c -->
+<section id="section-b" class="grid">
+  <ul>
+  <li>
+  <div class="card" id="section-bwebdev">
+    <img src="https://image.shutterstock.com/z/stock-photo-web-development-coding-programming-internet-technology-business-concept-1141706672.jpg" style="width: 435px; height: 250px;max-width: 800px;max-height: 800px">
+    <div class="card-content">
+      <h3>Web Development</h3>
+        <p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+      </p>
+</div>
+
+  </div>
+  </li>
+  <li>
+
+      <div class="card">
+        <img src="https://d2q275vdzul5bt.cloudfront.net/vassets/9949d65afd258cbf2182e13d614a767cd1cf9402/socialThumb.jpg" style="width: 435px; height: 250px;max-width: 800px;max-height: 800px">
+      <div class="card-content">
+        <h3>Ecommerce</h3>
+          <p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+</p>
+</div>
+</div></li>
+
+
+
+<li>
+
+    <div class="card">
+      <img src="https://i.imgur.com/mkYmoKO.jpg" style="width: 435px; height: 250px;max-width: 800px;max-height: 800px">
+      <div class="card-content">
+        <h3>Tech market</h3>
+        <p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+</p>
+</div>
+</div></li>
+</ul></section>
+
+
+
+<!-- section d -->
+
+<div class="background">
+  <div class="container">
+    <div class="screen">
+      <div class="screen-header">
+        <div class="screen-header-left">
+          <div class="screen-header-button close"></div>
+          <div class="screen-header-button maximize"></div>
+          <div class="screen-header-button minimize"></div>
+        </div>
+        <div class="screen-header-right">
+          <div class="screen-header-ellipsis"></div>
+          <div class="screen-header-ellipsis"></div>
+          <div class="screen-header-ellipsis"></div>
+        </div>
+      </div>
+      <div class="screen-body">
+        <div class="screen-body-item left">
+          <div class="app-title">
+            <span>CONTACT</span>
+            <span>ME</span>
+          </div>
+          <div class="app-contact">CONTACT INFO : spencerhenegar@gmail.com</div>
+        </div>
+        <div class="screen-body-item">
+          <div class="app-form">
+            <div class="app-form-group">
+              <input class="app-form-control" placeholder="NAME" value="">
+            </div>
+            <div class="app-form-group">
+              <input class="app-form-control" placeholder="EMAIL">
+            </div>
+            <div class="app-form-group">
+              <input class="app-form-control" placeholder="CONTACT NO">
+            </div>
+            <div class="app-form-group message">
+              <input class="app-form-control" placeholder="MESSAGE">
+            </div>
+            <div class="app-form-group buttons">
+              <button class="app-form-button">CANCEL</button>
+              <button class="app-form-button">SEND</button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+
+
+    </div>
+  </div>
+
+
+
+
+<!-- section e -->
+
+
+
+<section id="section-e" class="grid">
+  <ul>
+  <li>
+  <div class="card">
+  <h3>About Me</h3>
+<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable E</p>
+
+</div></li>
+
+
+<li>
+  <div class="card">
+  <h3>My portfolio</h3>
+<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable E</p>
+
+</div></li>
+
+
+
+
+</ul>
+
